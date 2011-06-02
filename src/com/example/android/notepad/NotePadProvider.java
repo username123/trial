@@ -54,7 +54,7 @@ import java.util.HashMap;
 public class NotePadProvider extends ContentProvider implements PipeDataWriter<Cursor> {
     // Used for debugging and logging
     private static final String TAG = "NotePadProvider";
-    
+    private String s = "";
 
     /**
      * The database that the provider uses as its underlying data store
