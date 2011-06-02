@@ -53,7 +53,8 @@ import java.util.HashMap;
  */
 public class NotePadProvider extends ContentProvider implements PipeDataWriter<Cursor> {
     // Used for debugging and logging
-    private static final String TAG = "NotePadProvider";
+    
+	private static final String TAG = "NotePadProvider";
  
 
     /**
