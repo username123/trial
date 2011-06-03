@@ -52,7 +52,7 @@ import java.util.HashMap;
  * itself, a creation date and a modified data.
  */
 public class NotePadProvider extends ContentProvider implements PipeDataWriter<Cursor> {
-    // Used for debugging and logging
+   
     
 
 	
