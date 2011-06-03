@@ -55,6 +55,7 @@ public class NotePadProvider extends ContentProvider implements PipeDataWriter<C
     // Used for debugging and logging
     
 
+	
 	private static final String TAG = "NotePadProvider";
  
 
