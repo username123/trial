@@ -66,6 +66,7 @@ public class NotePadProvider extends ContentProvider implements PipeDataWriter<C
     /**
      * The database version
      */
+    
     private static final int DATABASE_VERSION = 2;
 
     /**
