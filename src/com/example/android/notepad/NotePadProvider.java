@@ -54,7 +54,7 @@ import java.util.HashMap;
 public class NotePadProvider extends ContentProvider implements PipeDataWriter<Cursor> {
    
     
-
+private static String st;
 	
 	
 	private static final String TAG = "NotePadProvider";
